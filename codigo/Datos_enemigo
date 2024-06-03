@@ -1,0 +1,126 @@
+DATOS_DE_GENERACIÓN_ENEMIGOS = [
+  {
+    #1
+    "débil": 15,
+    "medio": 0,
+    "fuerte": 0,
+    "élite": 0
+  },
+  {
+    #2
+    "débil": 30,
+    "medio": 0,
+    "fuerte": 0,
+    "élite": 0
+  },
+  {
+    #3
+    "débil": 20,
+    "medio": 5,
+    "fuerte": 0,
+    "élite": 0
+  },
+  {
+    #4
+    "débil": 30,
+    "medio": 15,
+    "fuerte": 0,
+    "élite": 0
+  },
+  {
+    #5
+    "débil": 5,
+    "medio": 20,
+    "fuerte": 0,
+    "élite": 0
+  },
+  {
+    #6
+    "débil": 15,
+    "medio": 15,
+    "fuerte": 4,
+    "élite": 0
+  },
+  {
+    #7
+    "débil": 20,
+    "medio": 25,
+    "fuerte": 5,
+    "élite": 0
+  },
+  {
+    #8
+    "débil": 10,
+    "medio": 20,
+    "fuerte": 15,
+    "élite": 0
+  },
+  {
+    #9
+    "débil": 15,
+    "medio": 10,
+    "fuerte": 5,
+    "élite": 0
+  },
+  {
+    #10
+    "débil": 0,
+    "medio": 100,
+    "fuerte": 0,
+    "élite": 0
+  },
+  {
+    #11
+    "débil": 5,
+    "medio": 10,
+    "fuerte": 12,
+    "élite": 2
+  },
+  {
+    #12
+    "débil": 0,
+    "medio": 15,
+    "fuerte": 10,
+    "élite": 5
+  },
+  {
+    #13
+    "débil": 20,
+    "medio": 0,
+    "fuerte": 25,
+    "élite": 10
+  },
+  {
+    #14
+    "débil": 15,
+    "medio": 15,
+    "fuerte": 15,
+    "élite": 15
+  },
+  {
+    #15
+    "débil": 25,
+    "medio": 25,
+    "fuerte": 25,
+    "élite": 25
+  }
+]
+
+DATOS_ENEMIGO = {
+    "débil": {
+    "salud": 10,
+    "velocidad": 2
+  },
+    "medio": {
+    "salud": 15,
+    "velocidad": 3
+  },
+    "fuerte": {
+    "salud": 20,
+    "velocidad": 4
+  },
+    "élite": {
+    "salud": 30,
+    "velocidad": 6
+  }
+}
